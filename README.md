@@ -42,7 +42,7 @@ email-spam-classifier/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/email-spam-classifier.git
+git clone https://github.com/RabaiFiaz/Email-Spam-classification-model.git
 cd email-spam-classifier
 ```
 
