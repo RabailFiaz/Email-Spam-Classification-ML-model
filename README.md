@@ -16,14 +16,14 @@ This project is a simple and interactive **Email Spam Classifier** built using *
 ## 📂 Project Structure
 
 email-spam-classifier/
--│
--├── spam.csv # Dataset used for training (SMS Spam Collection)
--├── train_spam_model.py # Script to train and save the model
--├── spam_model.pkl # Trained model (generated after training)
--├── vectorizer.pkl # TF-IDF vectorizer (generated after training)
--├── app.py # Streamlit web app
--├── requirements.txt # Python dependencies
--└── README.md # Project documentation
+- │
+- ├── spam.csv # Dataset used for training (SMS Spam Collection)
+- ├── train_spam_model.py # Script to train and save the model
+- ├── spam_model.pkl # Trained model (generated after training)
+- ├── vectorizer.pkl # TF-IDF vectorizer (generated after training)
+- ├── app.py # Streamlit web app
+- ├── requirements.txt # Python dependencies
+- └── README.md # Project documentation
 
 
 ---
